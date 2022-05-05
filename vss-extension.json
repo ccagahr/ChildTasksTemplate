@@ -3,8 +3,8 @@
 	"id": "COSMOChildTasksTemplate",
 	"version": "1.0.0",
 	"name": "COSMO Child Tasks Template",
-	"public": true,
-	"publisher": "COSMO Consult GmbH",
+	"public": false,
+	"publisher": "CosmoConsultSIGmbHAzureDEV",
 	"description": "This extension enables creating user story or bug child tasks from a template.",
 	"targets": [
 		{
