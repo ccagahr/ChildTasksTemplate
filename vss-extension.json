@@ -1,10 +1,10 @@
 {
 	"manifestVersion": 1,
-	"id": "ChildTasksTemplate",
-	"version": "2.0.4",
-	"name": "Child Tasks Template",
+	"id": "COSMOChildTasksTemplate",
+	"version": "1.0.0",
+	"name": "COSMO Child Tasks Template",
 	"public": true,
-	"publisher": "Fiveforty",
+	"publisher": "COSMO Consult GmbH",
 	"description": "This extension enables creating user story or bug child tasks from a template.",
 	"targets": [
 		{
@@ -85,22 +85,22 @@
 	],
 	"links": {
 		"support": {
-			"uri": "mailto:jpiquot@fiveforty.fr"
+			"uri": "mailto:ccagahr@fiveforty.fr"
 		},
 		"home": {
-			"uri": "https://github.com/jpiquot/ChildTasksTemplate"
+			"uri": "https://github.com/ccagahr/ChildTasksTemplate"
 		},
 		"getstarted": {
-			"uri": "https://github.com/jpiquot/ChildTasksTemplate"
+			"uri": "https://github.com/ccagahr/ChildTasksTemplate"
 		},
 		"learn": {
-			"uri": "https://github.com/jpiquot/ChildTasksTemplate"
+			"uri": "https://github.com/ccagahr/ChildTasksTemplate"
 		},
 		"repository": {
-			"uri": "https://github.com/jpiquot/ChildTasksTemplate"
+			"uri": "https://github.com/ccagahr/ChildTasksTemplate"
 		},
 		"issues": {
-			"uri": "https://github.com/jpiquot/ChildTasksTemplate/issues"
+			"uri": "https://github.com/ccagahr/ChildTasksTemplate/issues"
 		}
 	},
 	"tags": [
@@ -110,7 +110,7 @@
 	],
 	"repository": {
 		"type": "git",
-		"uri": "https://github.com/jpiquot/ChildTasksTemplate.git"
+		"uri": "https://github.com/ccagahr/ChildTasksTemplate.git"
 	},
 	"screenshots": [
 		{
